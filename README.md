@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BEmran
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @BEmran
+- I'm a robot specialist with advance hardware and software expertise.
+- I’m interested in Unmanned Vehicles (Ground - Aerial), Control Systems and Machine Learning.
+- I’m open to collaborate on interasting and fun robot projects.
+- You can reach through my email: bara.emran@gmail.com
 
 <!---
 BEmran/BEmran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
