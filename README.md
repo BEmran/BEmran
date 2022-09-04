@@ -1,4 +1,4 @@
-- Hi, I’m @BEmran
+- Hi, I’m Bara Emran
 - I'm a robot specialist with advance hardware and software expertise.
 - I’m interested in Unmanned Vehicles (Ground - Aerial), Control Systems and Machine Learning.
 - I’m open to collaborate on interasting and fun robot projects.
